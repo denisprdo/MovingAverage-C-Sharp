@@ -1,0 +1,7 @@
+D:\Git\C#\MovingAverage\MovingAverage\bin\Debug\MovingAverage.exe.config
+D:\Git\C#\MovingAverage\MovingAverage\bin\Debug\MovingAverage.exe
+D:\Git\C#\MovingAverage\MovingAverage\bin\Debug\MovingAverage.pdb
+D:\Git\C#\MovingAverage\MovingAverage\obj\Debug\MovingAverage.csproj.SuggestedBindingRedirects.cache
+D:\Git\C#\MovingAverage\MovingAverage\obj\Debug\MovingAverage.csproj.CoreCompileInputs.cache
+D:\Git\C#\MovingAverage\MovingAverage\obj\Debug\MovingAverage.exe
+D:\Git\C#\MovingAverage\MovingAverage\obj\Debug\MovingAverage.pdb

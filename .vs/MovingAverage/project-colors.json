@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8287b0f6-58f3-4360-ab72-c7d0faa550cc": {
+      "ProjectGuid": "8287b0f6-58f3-4360-ab72-c7d0faa550cc",
+      "DisplayName": "MovingAverage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
